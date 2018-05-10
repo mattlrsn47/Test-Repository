@@ -1,3 +1,7 @@
 var x = 3;
-x+5;
 
+function add(x){
+    x + 9;
+}
+
+add(x);
